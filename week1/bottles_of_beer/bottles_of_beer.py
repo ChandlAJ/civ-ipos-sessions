@@ -23,6 +23,7 @@ def main():
             print(c, end='', flush=True)
             sleep(0.07)
         print()
+        print()
     else:
         for c in (f"{bottle_display_text(bottles)} of beer on the wall, {bottle_display_text(bottles)} of beer"):
             print(c, end='', flush=True)
@@ -34,4 +35,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
