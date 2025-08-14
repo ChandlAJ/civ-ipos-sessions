@@ -1,4 +1,8 @@
 def add(number, number2):
+    return number + number2
+
+
+def add(number, number2):
     """
     Adds two numbers and returns the sum.
 
