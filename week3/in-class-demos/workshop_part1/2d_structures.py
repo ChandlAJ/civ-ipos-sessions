@@ -14,24 +14,24 @@ df = pd.DataFrame({
 print()
 
 
-#
-# # Exercise 1: manually create a 2D data structure
-# #        elem    0  1  2      row
-#
-# # my_2dim_list = [
-# #     [0, 1, 2],
-# #     [3, 4, 5],
-# #     [6, 7, 8]
-# # ]
-#
-# # 0 1 2
-# # 3 4 5
-# # 6 7 8
-#
-# # random
-# # print(my_2dim_list[0])
-# # print(my_2dim_list[1][2])
-#
+
+# Exercise 1: manually create a 2D data structure
+#        elem    0  1  2      row
+
+# my_2dim_list = [
+#     [0, 1, 2],
+#     [3, 4, 5],
+#     [6, 7, 8]
+# ]
+
+# 0 1 2
+# 3 4 5
+# 6 7 8
+
+# random
+# print(my_2dim_list[0])
+# print(my_2dim_list[1][2])
+
 #
 # # Exercise 2:
 # # sequential iteration over 2D

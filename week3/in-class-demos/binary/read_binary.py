@@ -1,5 +1,5 @@
 # Define the path to the binary file
-binary_file_path = './rgb_grid.bin'  # Update this path to your local path
+binary_file_path = '/rgb_grid.bin'  # Update this path to your local path
 
 # Open and read the binary file
 with open(binary_file_path, 'rb') as file:
