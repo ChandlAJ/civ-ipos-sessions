@@ -10,9 +10,8 @@ class Stack:
         if not self.is_empty():
             # if pop the item of the end
             return self.stack.pop()
-        # if it is return nothing
         else: 
-            return None
+            return "Nothing to pop."
 
     def is_empty(self):
         return len(self.stack) == 0

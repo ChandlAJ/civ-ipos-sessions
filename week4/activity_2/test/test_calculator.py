@@ -1,5 +1,5 @@
 import unittest
-from src.calculator import add
+from calculator import add
 
 class TestaddFunction(unittest.TestCase):
     # Types

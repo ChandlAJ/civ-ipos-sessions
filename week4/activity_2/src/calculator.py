@@ -1,5 +1,6 @@
-def add(number, number2):
-    return number + number2
+def add(number1, number2):
+    isinstance(number1, int) and isinstance(number2, int)
+    return number1 + number2
 
 
 def add(number, number2):
